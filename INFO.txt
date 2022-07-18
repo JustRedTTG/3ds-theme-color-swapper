@@ -1,0 +1,13 @@
+Put inside a theme you want to swap the colors of.
+
+Prepare with comb.png (THE ONES WITH THE COLOR EDIT) This should be the top and bottom image together
+Prepare with old_comb.png, bottom_old.png (THE ORIGINAL) Make sure they are identical, except for the color diffrence and naming
+
+Prepare with colors.meta and colors_old.meta respectively.
+
+Also set the size within the script (Should just be 512)
+
+Run the program and wait for it to finish
+
+You should have a colors_new.meta.
+Make sure it's all correct and setup the newly edited theme :)
